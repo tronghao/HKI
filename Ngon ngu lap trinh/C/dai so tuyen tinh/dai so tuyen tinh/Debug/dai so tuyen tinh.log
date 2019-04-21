@@ -1,0 +1,27 @@
+﻿Build started 11/15/2017 6:45:20 PM.
+     1>Project "E:\GOC HOC TAP\Cong Nghe Thong Tin\Ngon ngu lap trinh\C\dai so tuyen tinh\dai so tuyen tinh\dai so tuyen tinh.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\dai so tuyen tinh.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "dai so tuyen tinh.cpp"
+         dai so tuyen tinh.cpp
+     1>e:\goc hoc tap\cong nghe thong tin\ngon ngu lap trinh\c\dai so tuyen tinh\dai so tuyen tinh\dai so tuyen tinh.cpp(20): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>e:\goc hoc tap\cong nghe thong tin\ngon ngu lap trinh\c\dai so tuyen tinh\dai so tuyen tinh\dai so tuyen tinh.cpp(281): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>e:\goc hoc tap\cong nghe thong tin\ngon ngu lap trinh\c\dai so tuyen tinh\dai so tuyen tinh\dai so tuyen tinh.cpp(306): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\GOC HOC TAP\Cong Nghe Thong Tin\Ngon ngu lap trinh\C\dai so tuyen tinh\Debug\dai so tuyen tinh.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\dai so tuyen tinh.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\GOC HOC TAP\Cong Nghe Thong Tin\Ngon ngu lap trinh\C\dai so tuyen tinh\Debug\dai so tuyen tinh.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\GOC HOC TAP\Cong Nghe Thong Tin\Ngon ngu lap trinh\C\dai so tuyen tinh\Debug\dai so tuyen tinh.lib" /MACHINE:X86 "Debug\dai so tuyen tinh.obj"
+         LINK : E:\GOC HOC TAP\Cong Nghe Thong Tin\Ngon ngu lap trinh\C\dai so tuyen tinh\Debug\dai so tuyen tinh.exe not found or not built by the last incremental link; performing full link
+         dai so tuyen tinh.vcxproj -> E:\GOC HOC TAP\Cong Nghe Thong Tin\Ngon ngu lap trinh\C\dai so tuyen tinh\Debug\dai so tuyen tinh.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\GOC HOC TAP\Cong Nghe Thong Tin\Ngon ngu lap trinh\C\dai so tuyen tinh\Debug\dai so tuyen tinh.exe;#1" /manifest "Debug\dai so tuyen tinh.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Debug\dai so tuyen tinh.unsuccessfulbuild".
+         Touching "Debug\dai so tuyen tinh.lastbuildstate".
+     1>Done Building Project "E:\GOC HOC TAP\Cong Nghe Thong Tin\Ngon ngu lap trinh\C\dai so tuyen tinh\dai so tuyen tinh\dai so tuyen tinh.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.78

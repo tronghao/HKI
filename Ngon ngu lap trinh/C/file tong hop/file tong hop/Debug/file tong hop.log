@@ -1,0 +1,71 @@
+﻿Build started 10/27/2017 9:23:53 PM.
+     1>Project "E:\GOC HOC TAP\Cong Nghe Thong Tin\Ngon ngu lap trinh\C\file tong hop\file tong hop\file tong hop.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\file tong hop.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "..\..\chuong trinh tong hop.cpp"
+         chuong trinh tong hop.cpp
+     1>e:\goc hoc tap\cong nghe thong tin\ngon ngu lap trinh\c\chuong trinh tong hop.cpp(29): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>e:\goc hoc tap\cong nghe thong tin\ngon ngu lap trinh\c\chuong trinh tong hop.cpp(38): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>e:\goc hoc tap\cong nghe thong tin\ngon ngu lap trinh\c\chuong trinh tong hop.cpp(41): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>e:\goc hoc tap\cong nghe thong tin\ngon ngu lap trinh\c\chuong trinh tong hop.cpp(42): warning C4554: '&' : check operator precedence for possible error; use parentheses to clarify precedence
+     1>e:\goc hoc tap\cong nghe thong tin\ngon ngu lap trinh\c\chuong trinh tong hop.cpp(43): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>e:\goc hoc tap\cong nghe thong tin\ngon ngu lap trinh\c\chuong trinh tong hop.cpp(44): warning C4554: '&' : check operator precedence for possible error; use parentheses to clarify precedence
+     1>e:\goc hoc tap\cong nghe thong tin\ngon ngu lap trinh\c\chuong trinh tong hop.cpp(45): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>e:\goc hoc tap\cong nghe thong tin\ngon ngu lap trinh\c\chuong trinh tong hop.cpp(46): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>e:\goc hoc tap\cong nghe thong tin\ngon ngu lap trinh\c\chuong trinh tong hop.cpp(56): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>e:\goc hoc tap\cong nghe thong tin\ngon ngu lap trinh\c\chuong trinh tong hop.cpp(57): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>e:\goc hoc tap\cong nghe thong tin\ngon ngu lap trinh\c\chuong trinh tong hop.cpp(58): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>e:\goc hoc tap\cong nghe thong tin\ngon ngu lap trinh\c\chuong trinh tong hop.cpp(67): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>e:\goc hoc tap\cong nghe thong tin\ngon ngu lap trinh\c\chuong trinh tong hop.cpp(78): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>e:\goc hoc tap\cong nghe thong tin\ngon ngu lap trinh\c\chuong trinh tong hop.cpp(88): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>e:\goc hoc tap\cong nghe thong tin\ngon ngu lap trinh\c\chuong trinh tong hop.cpp(97): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>e:\goc hoc tap\cong nghe thong tin\ngon ngu lap trinh\c\chuong trinh tong hop.cpp(107): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>e:\goc hoc tap\cong nghe thong tin\ngon ngu lap trinh\c\chuong trinh tong hop.cpp(122): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>e:\goc hoc tap\cong nghe thong tin\ngon ngu lap trinh\c\chuong trinh tong hop.cpp(138): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>e:\goc hoc tap\cong nghe thong tin\ngon ngu lap trinh\c\chuong trinh tong hop.cpp(149): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>e:\goc hoc tap\cong nghe thong tin\ngon ngu lap trinh\c\chuong trinh tong hop.cpp(164): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>e:\goc hoc tap\cong nghe thong tin\ngon ngu lap trinh\c\chuong trinh tong hop.cpp(212): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>e:\goc hoc tap\cong nghe thong tin\ngon ngu lap trinh\c\chuong trinh tong hop.cpp(228): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>e:\goc hoc tap\cong nghe thong tin\ngon ngu lap trinh\c\chuong trinh tong hop.cpp(333): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>e:\goc hoc tap\cong nghe thong tin\ngon ngu lap trinh\c\chuong trinh tong hop.cpp(342): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>e:\goc hoc tap\cong nghe thong tin\ngon ngu lap trinh\c\chuong trinh tong hop.cpp(351): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>e:\goc hoc tap\cong nghe thong tin\ngon ngu lap trinh\c\chuong trinh tong hop.cpp(360): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>e:\goc hoc tap\cong nghe thong tin\ngon ngu lap trinh\c\chuong trinh tong hop.cpp(371): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(277) : see declaration of 'gets'
+     1>e:\goc hoc tap\cong nghe thong tin\ngon ngu lap trinh\c\chuong trinh tong hop.cpp(412): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>e:\goc hoc tap\cong nghe thong tin\ngon ngu lap trinh\c\chuong trinh tong hop.cpp(66): warning C4101: 'min' : unreferenced local variable
+     1>e:\goc hoc tap\cong nghe thong tin\ngon ngu lap trinh\c\chuong trinh tong hop.cpp(66): warning C4101: 'max' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\GOC HOC TAP\Cong Nghe Thong Tin\Ngon ngu lap trinh\C\file tong hop\Debug\file tong hop.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\file tong hop.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\GOC HOC TAP\Cong Nghe Thong Tin\Ngon ngu lap trinh\C\file tong hop\Debug\file tong hop.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\GOC HOC TAP\Cong Nghe Thong Tin\Ngon ngu lap trinh\C\file tong hop\Debug\file tong hop.lib" /MACHINE:X86 "Debug\chuong trinh tong hop.obj"
+         LINK : E:\GOC HOC TAP\Cong Nghe Thong Tin\Ngon ngu lap trinh\C\file tong hop\Debug\file tong hop.exe not found or not built by the last incremental link; performing full link
+         file tong hop.vcxproj -> E:\GOC HOC TAP\Cong Nghe Thong Tin\Ngon ngu lap trinh\C\file tong hop\Debug\file tong hop.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\GOC HOC TAP\Cong Nghe Thong Tin\Ngon ngu lap trinh\C\file tong hop\Debug\file tong hop.exe;#1" /manifest "Debug\file tong hop.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Debug\file tong hop.unsuccessfulbuild".
+         Touching "Debug\file tong hop.lastbuildstate".
+     1>Done Building Project "E:\GOC HOC TAP\Cong Nghe Thong Tin\Ngon ngu lap trinh\C\file tong hop\file tong hop\file tong hop.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.88
